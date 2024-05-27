@@ -4,7 +4,7 @@ Como parte de los requisitos para obtener el título de Magister en Ciencia de D
 
 
 
-
+### Transferencia de color
 Una aplicación magistral del transporte óptimo es la transferencia de color, en donde se busca "copiar" los colores de los pixeles de una imagen a otra, manteniendo la estructura de la imagen de llegada.
 
 ![Transferencia_color_FING](https://github.com/britsimm/simulaciones_transporte_optimo/blob/main/imagenes/transferencia_color.png)
